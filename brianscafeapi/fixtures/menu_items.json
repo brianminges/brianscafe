@@ -1,0 +1,35 @@
+
+[
+    {
+        "model": "brianscafeapi.menuItem",
+        "pk": 1,
+        "fields": {
+            "name": "Buffalo wings",
+            "heat_level": "5",
+            "about": "10 bone-in chicken wings covered in your choice of sauce.",
+            "cost": "12.99"
+        }
+    },
+    {
+        "model": "brianscafeapi.menuItem",
+        "pk": 2,
+        "fields": {
+            "name": "Blue cheese",
+            "heat_level": "0",
+            "about": "Side of creamy homemade blue cheese dressing",
+            "cost": "1.25"
+        }
+    },
+    {
+        "model": "brianscafeapi.menuItem",
+        "pk": 3,
+        "fields": {
+            "name": "Celery",
+            "heat_level": "0",
+            "about": "Side of fresh celery sticks for dipping.",
+            "cost": "1.00"
+        }
+    }
+]
+
+ 
